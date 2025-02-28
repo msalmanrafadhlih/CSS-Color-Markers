@@ -1,7 +1,6 @@
 <--visit site for preview page! https://msalmanrafadhlih.github.io/CSS-Color-Markers/-->
 
-<!DOCTYPE html>
-<html lang="en">
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +22,6 @@
         <div class="cap"></div>
         <div class="sleeve"></div>
       </div>
-    </div>
-  </body>
-</html>
+ </div>
+
+
